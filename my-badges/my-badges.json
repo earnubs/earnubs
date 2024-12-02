@@ -152,5 +152,12 @@
     "desc": "I joined GitHub 15 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/webpack/webpack/issues/1643#issuecomment-317436595\">47 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
