@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/earnubs/try-browser-extension/commit/aac00014c0a075ade39feeea5e549b71316096e3\"><strong>a</strong>ac00014c0a075ade39feeea5e549b71316096e3</a>",
+    "body": "- <a href=\"https://github.com/earnubs/gray-cloud/commit/a8f82f88a607eb0587d972b6f5bc2cbece4bad5c\"><strong>a</strong>8f82f88a607eb0587d972b6f5bc2cbece4bad5c</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/fde8392798fffc0d2e58a53b3244052c254e66b0\">fde8392</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/d90e427df8b56763d30b6d387e43626939d99652\">d90e427</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/dc8ace1c9ecd793dbbd406e01523128e10d7e4ec\">dc8ace1</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/57c1f000258a1da8cf3251a4cbbbb6383343a716\">57c1f00</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/4919307492fecbd6fdacbcedcc9cf8a6b210f075\">4919307</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/80a4e56d95a237d80c4bc7a8a1a132c88611906c\">80a4e56</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/98171c8b91da034c151c04ba3dac291171e38d66\">98171c8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/57c1f000258a1da8cf3251a4cbbbb6383343a716\">57c1f00</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/4919307492fecbd6fdacbcedcc9cf8a6b210f075\">4919307</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/80a4e56d95a237d80c4bc7a8a1a132c88611906c\">80a4e56</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/98171c8b91da034c151c04ba3dac291171e38d66\">98171c8</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/fde8392798fffc0d2e58a53b3244052c254e66b0\">fde8392</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/d90e427df8b56763d30b6d387e43626939d99652\">d90e427</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/dc8ace1c9ecd793dbbd406e01523128e10d7e4ec\">dc8ace1</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -75,13 +75,6 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/try-auth-lpteams/commit/a72d59deebc6527d4f02ef86f976cf4cc8949965\">a72d59d</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "thumbs-up",
-    "tier": 0,
-    "desc": "I have received a lot of thumbs up 👍 reactions!",
-    "body": "- [47 thumbs ups](https://github.com/webpack/webpack/issues/1643#issuecomment-317436595)\n- [2 thumbs ups](https://github.com/yarnpkg/yarn/issues/4628)\n- [2 thumbs ups](https://github.com/apollographql/apollo-client/issues/2810#issuecomment-654226300)\n- [2 thumbs ups](https://github.com/mswjs/msw/issues/1419#issuecomment-1267441484)\n- [1 thumbs ups](https://github.com/canonical/manager.assets.ubuntu.com/issues/39)\n- [1 thumbs ups](https://github.com/rails/webpacker/pull/1342)\n- [1 thumbs ups](https://github.com/BretFisher/node-docker-good-defaults/pull/82)\n- [1 thumbs ups](https://github.com/gaearon/react-hot-loader/issues/476#issuecomment-279073909)\n- [1 thumbs ups](https://github.com/webpack/webpack/issues/1643#issuecomment-317479423)\n- [1 thumbs ups](https://github.com/vmware-tanzu/kubeapps/issues/946#issuecomment-459442031)",
-    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
   },
   {
     "id": "polite-coder",
@@ -154,10 +147,17 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
   },
   {
-    "id": "thumbs-up-10",
-    "tier": 1,
-    "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/webpack/webpack/issues/1643#issuecomment-317436595\">47 👍</a>",
-    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/earnubs/css-replace\">earnubs/css-replace</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "thumbs-up-50",
+    "tier": 2,
+    "desc": "I got more than 50 thumbs up.",
+    "body": "* <a href=\"https://github.com/webpack/webpack/issues/1643#issuecomment-317436595\">72 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-50.png"
   }
 ]
