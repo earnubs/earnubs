@@ -22,6 +22,7 @@
 <a href="my-badges/github-anniversary-15.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-15.png" alt="I joined GitHub 15 years ago." title="I joined GitHub 15 years ago." width="64"></a>
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 1 my own repositories." title="I&apos;ve starred 1 my own repositories." width="64"></a>
 <a href="my-badges/thumbs-up-50.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-50.png" alt="I got more than 50 thumbs up." title="I got more than 50 thumbs up." width="64"></a>
+<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <!-- my-badges end -->
 
 <!--
