@@ -1,52 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/earnubs/gray-cloud/commit/a8f82f88a607eb0587d972b6f5bc2cbece4bad5c\"><strong>a</strong>8f82f88a607eb0587d972b6f5bc2cbece4bad5c</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/earnubs/try-auth-lpteams/commit/abed6c13b6b4f0950f488621ea07ebf5826e3dd0\"><strong>ab</strong>ed6c13b6b4f0950f488621ea07ebf5826e3dd0</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/redesigned-memory/commit/ae8b9df9bd3c02d68849d2b1214af59c413769bc\">ae8b9df</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/187d908b7aa8cb263857229465846de472f74c0a\">187d908</a>\n- <a href=\"https://github.com/earnubs/react-hot-loader-starter-kit/commit/5b3fb79492b05f9c6879b9ee88f95ab19913767c\">5b3fb79</a>\n- <a href=\"https://github.com/earnubs/try-auth-lpteams/commit/68dea73933035b4174784c1cd8fd0e996460b1ed\">68dea73</a>\n- <a href=\"https://github.com/earnubs/try-auth-lpteams/commit/73eba074eb98878e3ea2599d81958da617ede3f8\">73eba07</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/57c1f000258a1da8cf3251a4cbbbb6383343a716\">57c1f00</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/4919307492fecbd6fdacbcedcc9cf8a6b210f075\">4919307</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/80a4e56d95a237d80c4bc7a8a1a132c88611906c\">80a4e56</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/98171c8b91da034c151c04ba3dac291171e38d66\">98171c8</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/fde8392798fffc0d2e58a53b3244052c254e66b0\">fde8392</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/d90e427df8b56763d30b6d387e43626939d99652\">d90e427</a>\n- <a href=\"https://github.com/earnubs/build.snapcraft.io/commit/dc8ace1c9ecd793dbbd406e01523128e10d7e4ec\">dc8ace1</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 242 times)\n2. update (used 163 times)\n3. use (used 107 times)\n4. bump (used 95 times)\n5. fix (used 83 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/060b7adeb742a5ba1a9b6b6c74d111c54a442866\">060b7ad</a>: fix for clean lint\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/6bf1f7955800aece3be391f5f9174318085142ec\">6bf1f79</a>: fix nonsense test",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "github-anniversary-5",
@@ -63,20 +21,6 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/field-notes/commit/ce6fe3ddcd7e934cfba0013eebe7ef45a7f1edee\">ce6fe3d</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/try-auth-lpteams/commit/a72d59deebc6527d4f02ef86f976cf4cc8949965\">a72d59d</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
@@ -91,60 +35,11 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
-    "id": "revert-revert-commit",
-    "tier": 0,
-    "desc": "I reverted a revert commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/spinner/commit/d95183ebf50d2d5818bf9bdf9d06c694fe801df2\">d95183e</a>",
-    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/simple-css-tooltips/commit/a9e46ecb775323ea04acdeeba9213a013dd1667e\">a9e46ec</a>\n- <a href=\"https://github.com/earnubs/simple-css-tooltips/commit/9c93fd434edf7efa3cc09e5a19edc02f88befe60\">9c93fd4</a>\n- <a href=\"https://github.com/earnubs/simple-css-tooltips/commit/4ead80021759dd311f11faa125a36851c8d1e6b2\">4ead800</a>\n- <a href=\"https://github.com/earnubs/simple-css-tooltips/commit/f748c6173d65ccddc282b92bbb16dc0bb69e307e\">f748c61</a>\n- <a href=\"https://github.com/earnubs/simple-css-tooltips/commit/6d5ecf421c5c5faa60221b3aa33210a36c868fd9\">6d5ecf4</a>\n- <a href=\"https://github.com/earnubs/simple-css-tooltips/commit/444fec7432d403edf412d90e428f7527f60d04bd\">444fec7</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/grunt-init-yui3/commit/13d07c6ccc3d18c29185c37ad20b55236354ad90\">13d07c6</a>\n- <a href=\"https://github.com/earnubs/grunt-init-yui3/commit/6099a0a3fd360cdae9717598a47f7ea58e679212\">6099a0a</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/9017ea694292528bf8e36fc81d058cea189fc218\">9017ea6</a>\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/1ccf11c42a88b64b443dd9a1249265528bbecdde\">1ccf11c</a>\n- <a href=\"https://github.com/earnubs/try-auth-lpteams/commit/a0bec93c1e6219f1154f599b4ba429354cda882e\">a0bec93</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/demo-keycloak-terraform-traefik/commit/027177e37f9107d6fcba1d51ed9cb553bb5df91a\">027177e</a>\n- <a href=\"https://github.com/earnubs/try-vite-react-tanstack-vanilla/commit/42c5f24d2dd3768301d57851c5431565eb5c7d68\">42c5f24</a>\n- <a href=\"https://github.com/earnubs/demo-keycloak-terraform-traefik/commit/e3cff1981b4c300b2ad9cc4e630c4ff93585554c\">e3cff19</a>\n- <a href=\"https://github.com/earnubs/demo-keycloak-terraform-traefik/commit/b2687ed80c2de5d5946aecac1c3cdfd96f733364\">b2687ed</a>\n- <a href=\"https://github.com/earnubs/demo-keycloak-terraform-traefik/commit/714ea9190eb540d9550f1a166ca3a3fa776acf1c\">714ea91</a>\n- <a href=\"https://github.com/earnubs/demo-keycloak-terraform-traefik/commit/5dc45a86915543cd834d5e47c7ed5ad67316a9a0\">5dc45a8</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/nextjs-contentlayer/commit/1dffd60c378c1a21cdbf8d38f55a4cb2ce8ec1c5\">1dffd60</a>\n- <a href=\"https://github.com/earnubs/fuicpi/commit/b86a1a9402a3916050947f3aa6c3b8b430573e8b\">b86a1a9</a>\n- <a href=\"https://github.com/earnubs/fuicpi/commit/c0583239d62dea36a2140e95a1b215eb4dcd1d7c\">c058323</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
     "id": "github-anniversary-15",
     "tier": 0,
     "desc": "I joined GitHub 15 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/earnubs/css-replace\">earnubs/css-replace</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "thumbs-up-50",
@@ -154,52 +49,10 @@
     "image": "https://my-badges.github.io/my-badges/thumbs-up-50.png"
   },
   {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/field-notes/commit/83e1108508ff6288fa159cc983bb444dc475e839\">83e1108</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/429a417d54b3dda02323a5e5e5d477ddbc4e3484\">429a417</a>\n- <a href=\"https://github.com/earnubs/insolent-guacamole/commit/1745618e80d40dbca7c51d8245e30d9d3cd6a234\">1745618</a>\n- <a href=\"https://github.com/earnubs/insolent-guacamole/commit/4434dd4d81362ad1202b8ae896edcce7cf7a7403\">4434dd4</a>\n- <a href=\"https://github.com/earnubs/insolent-guacamole/commit/40ffdaf10ec6308ae5a6ea4c247ba44317ac95d9\">40ffdaf</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/my.ubuntu.com/commit/2166f983c7cf67a7321c5a04f88de62c84c55b4f\">2166f98</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
     "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/field-notes/commit/0d37e9dc68ccefb8910541549ea72b985c3bd2cb\">0d37e9d</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/5585fef9451a6446f55ebcffd29f20edb38aad75\">5585fef</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/e376550bd8f91000b5539f08e9916bd6bf1a3d94\">e376550</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/a4a96585bb6ad451a782629a294bf4875e986084\">a4a9658</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/6590cf8b07cefb2d478e01a18c7ffae454b01cf4\">6590cf8</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/3b7012154a9ea69fa7a469d0a245c9d743da3b11\">3b70121</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/try-vite-react-tanstack-vanilla/commit/0b184a4200eda146a4ac682f5dccd7360d8a20e2\">0b184a4</a>\n- <a href=\"https://github.com/earnubs/try-vite-react-tanstack-vanilla/commit/e30f221ece0d397eb5a54ff936d891d7192c8b5a\">e30f221</a>\n- <a href=\"https://github.com/earnubs/try-vite-react-tanstack-vanilla/commit/86d519c2c3a05d681a390c29195803b21ca3856b\">86d519c</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/try-vite-react-tanstack-vanilla/commit/9135cba91137ecd23a9a87fa51eb42b35e59fc57\">9135cba</a>\n- <a href=\"https://github.com/earnubs/try-vite-react-tanstack-vanilla/commit/b45ebcb868ac3c2d8ba5329e11cbb7e231474b9a\">b45ebcb</a>\n- <a href=\"https://github.com/earnubs/try-vite-react-tanstack-vanilla/commit/3a5ef06bb9dd76fbf6ae3e2d1c176c80f483cfb4\">3a5ef06</a>\n- <a href=\"https://github.com/earnubs/dial-interface/commit/704bbefbf8828b5ce617060ebd9f7680d8e5cf74\">704bbef</a>\n- <a href=\"https://github.com/earnubs/dial-interface/commit/83cff6f3fdb873a9e9a2fa5f94ac77494a6b041a\">83cff6f</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/earnubs/dial-interface/commit/7bb41bddcf1071c3f592c6774a40161d77b22fc4\">7bb41bd</a>\n- <a href=\"https://github.com/earnubs/dial-interface/commit/581f5fcdb6464e4c1a2836323ebae2e3d6d12e3c\">581f5fc</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/ce56d768dd893d20cc0d7e58231d42a03864bad2\">ce56d76</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/20f5c3ca02ef171ec2fbc0f2165b7cc5fbc9634d\">20f5c3c</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/156cbd00ea3994d5f4a55792e84ea8d581133f5b\">156cbd0</a>\n- <a href=\"https://github.com/earnubs/field-notes/commit/e22fb2183f6b330ca683cf90cac80ccf62a35b8d\">e22fb21</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
